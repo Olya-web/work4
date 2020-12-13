@@ -1,0 +1,14 @@
+C:\Users\darkn\source\repos\Goods\GoodsUI\bin\Debug\GoodsUI.exe.config
+C:\Users\darkn\source\repos\Goods\GoodsUI\bin\Debug\GoodsUI.exe
+C:\Users\darkn\source\repos\Goods\GoodsUI\bin\Debug\GoodsUI.pdb
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.csprojAssemblyReference.cache
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.Properties.Resources.resources
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.csproj.GenerateResource.cache
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.csproj.CoreCompileInputs.cache
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.exe
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.pdb
+C:\Users\darkn\source\repos\Goods\GoodsUI\bin\Debug\GoodsLibrary.dll
+C:\Users\darkn\source\repos\Goods\GoodsUI\bin\Debug\GoodsLibrary.pdb
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.GoodsUI.resources
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.csproj.CopyComplete
+C:\Users\darkn\source\repos\Goods\GoodsUI\obj\Debug\GoodsUI.GoodEdit.resources

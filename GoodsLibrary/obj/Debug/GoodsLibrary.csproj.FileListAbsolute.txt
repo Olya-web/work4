@@ -1,0 +1,9 @@
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\bin\Debug\GoodsLibrary.dll
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\bin\Debug\GoodsLibrary.pdb
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\obj\Debug\GoodsLibrary.csprojAssemblyReference.cache
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\obj\Debug\GoodsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\obj\Debug\GoodsLibrary.csproj.CopyComplete
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\obj\Debug\GoodsLibrary.dll
+C:\Users\darkn\source\repos\Goods\GoodsLibrary\obj\Debug\GoodsLibrary.pdb
